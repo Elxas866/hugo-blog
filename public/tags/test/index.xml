@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Test on Terminal</title>
+    <link>/tags/test/</link>
+    <description>Recent content in Test on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 29 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/test/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My first blog entry</title>
+      <link>/posts/first-post/first-blog-entry/</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/first-post/first-blog-entry/</guid>
+      <description>This is the first entry in my blog. I am testing a few things here:
+Get it to work Get images to work Get Code to be displayed properly Images Here is an image of my beautiful desktop environment: Code System.out.println(&amp;#34;Hello, world!&amp;#34;); </description>
+      <content>&lt;p&gt;This is the first entry in my blog. I am testing a few things here:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Get it to work&lt;/li&gt;
+&lt;li&gt;Get images to work&lt;/li&gt;
+&lt;li&gt;Get Code to be displayed properly&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h2 id=&#34;images&#34;&gt;Images&lt;/h2&gt;
+&lt;p&gt;Here is an image of my beautiful desktop environment:
+&lt;img alt=&#34;gnome-desktop&#34; src=&#34;my-gnome-desktop.png&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;code&#34;&gt;Code&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-java&#34; data-lang=&#34;java&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;System.&lt;span style=&#34;color:#a6e22e&#34;&gt;out&lt;/span&gt;.&lt;span style=&#34;color:#a6e22e&#34;&gt;println&lt;/span&gt;(&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;Hello, world!&amp;#34;&lt;/span&gt;);
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content>
+    </item>
+    
+  </channel>
+</rss>
