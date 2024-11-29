@@ -13,9 +13,6 @@ ___________.__                          ______   ________ ________
 # rsync files
 rsync -av --delete ~/personal-notes/posts/ ~/blog/content/posts/
 
-# copy images to assets
-cp -r ~/personal-notes/posts/images/ ~/blog/static/assets/images
-
 # build site
 hugo -t terminal
 
