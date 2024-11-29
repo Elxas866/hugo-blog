@@ -11,7 +11,7 @@ ___________.__                          ______   ________ ________
 #!/bin/bash
 
 # rsync files
-rsync -av --delete ~/personal-notes/posts/* ~/blog/content/posts
+rsync -av --delete ~/personal-notes/posts/ ~/blog/content/posts/
 
 # build site
 hugo -t terminal
