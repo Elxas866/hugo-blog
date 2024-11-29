@@ -30,5 +30,24 @@ Get it to work Get images to work Get Code to be displayed properly Get publishi
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</content>
     </item>
     
+    <item>
+      <title>My first blog entry</title>
+      <link>/posts/idea/idea/</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/idea/idea/</guid>
+      <description>I always wanted to develop a post where I could write inspiring stuff about my life and programming carrier. But the problem always was, that hosting a big ass web app with a database and everything would result in high hosting cost. To avoid this, I came up with this solution:
+I write my posts in Markdown I translate the Markdown to HTML using Hugo I run a custom bash script to polish everything off I automatically publish the site to Vercel through a GitHub push </description>
+      <content>&lt;p&gt;I always wanted to develop a post where I could write inspiring stuff about my life and programming carrier. But the problem always was, that hosting a big ass web app with a database and everything would result in high hosting cost.
+To avoid this, I came up with this solution:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I write my posts in Markdown&lt;/li&gt;
+&lt;li&gt;I translate the Markdown to HTML using &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;I run a custom bash script to polish everything off&lt;/li&gt;
+&lt;li&gt;I automatically publish the site to Vercel through a GitHub push&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
   </channel>
 </rss>

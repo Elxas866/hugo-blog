@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Idea on Terminal</title>
+    <link>/tags/idea/</link>
+    <description>Recent content in Idea on Terminal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 29 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/idea/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My first blog entry</title>
+      <link>/posts/idea/idea/</link>
+      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/idea/idea/</guid>
+      <description>I always wanted to develop a post where I could write inspiring stuff about my life and programming carrier. But the problem always was, that hosting a big ass web app with a database and everything would result in high hosting cost. To avoid this, I came up with this solution:
+I write my posts in Markdown I translate the Markdown to HTML using Hugo I run a custom bash script to polish everything off I automatically publish the site to Vercel through a GitHub push </description>
+      <content>&lt;p&gt;I always wanted to develop a post where I could write inspiring stuff about my life and programming carrier. But the problem always was, that hosting a big ass web app with a database and everything would result in high hosting cost.
+To avoid this, I came up with this solution:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I write my posts in Markdown&lt;/li&gt;
+&lt;li&gt;I translate the Markdown to HTML using &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;I run a custom bash script to polish everything off&lt;/li&gt;
+&lt;li&gt;I automatically publish the site to Vercel through a GitHub push&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
