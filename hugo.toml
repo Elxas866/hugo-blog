@@ -59,9 +59,9 @@ paginate = 5
     title = "Elias' blog"
 
     [languages.en.params]
-      subtitle = "This is my custom blog."
+      subtitle = "This is my very own custom blog. Lean more about me and my projects."
       owner = "Elias Kelta"
-      keywords = "blog"
+      keywords = "blog projects personal"
       copyright = "2024 Elias Kelta"
       menuMore = "Show more"
       readMore = "Read more"
