@@ -15,3 +15,8 @@ rsync -av --delete ~/personal-notes/posts/* ~/blog/content/posts
 
 # build site
 hugo -t terminal
+
+# git stuff
+git add .
+git commit -m "$0"
+git push origin master
