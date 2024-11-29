@@ -56,13 +56,13 @@ paginate = 5
 [languages]
   [languages.en]
     languageName = "English"
-    title = "Terminal"
+    title = "Elias' blog"
 
     [languages.en.params]
-      subtitle = "A simple, retro theme for Hugo"
-      owner = ""
-      keywords = ""
-      copyright = ""
+      subtitle = "This is my custom blog."
+      owner = "Elias Kelta"
+      keywords = "blog"
+      copyright = "2024 Elias Kelta"
       menuMore = "Show more"
       readMore = "Read more"
       readOtherPosts = "Read other posts"
@@ -74,7 +74,7 @@ paginate = 5
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "Terminal"
+        logoText = "Elias' blog"
         logoHomeLink = "/"
 
       [languages.en.menu]
