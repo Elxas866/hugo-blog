@@ -14,9 +14,6 @@
     <loc>/posts/first-post/first-blog-entry/</loc>
     <lastmod>2024-11-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/posts/idea/idea/</loc>
-    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>/posts/</loc>
     <lastmod>2024-11-29T00:00:00+00:00</lastmod>
   </url><url>
@@ -27,6 +24,9 @@
     <lastmod>2024-11-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/tags/test/</loc>
+    <lastmod>2024-11-29T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>/posts/idea/idea/</loc>
     <lastmod>2024-11-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>/categories/</loc>

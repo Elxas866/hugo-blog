@@ -1,5 +1,5 @@
 ---
-title: My first blog entry
+title: The idea behind this
 date: 2024-11-29
 draft: "false"
 tags:
