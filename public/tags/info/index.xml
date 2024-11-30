@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Info on Elias&#39; blog</title>
+    <link>/tags/info/</link>
+    <description>Recent content in Info on Elias&#39; blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/info/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>/posts/about/about/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/about/about/</guid>
+      <description>This is my blog. I created it to share my work with the world. View my portfolio site here: eliaskelta.com!</description>
+      <content>&lt;p&gt;This is my blog. I created it to share my work with the world. View my portfolio site here: &lt;a href=&#34;https://eliaskelta.com&#34;&gt;eliaskelta.com&lt;/a&gt;!&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>

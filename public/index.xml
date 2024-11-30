@@ -6,7 +6,18 @@
     <description>Recent content on Elias&#39; blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>/posts/about/about/</link>
+      <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/about/about/</guid>
+      <description>This is my blog. I created it to share my work with the world. View my portfolio site here: eliaskelta.com!</description>
+      <content>&lt;p&gt;This is my blog. I created it to share my work with the world. View my portfolio site here: &lt;a href=&#34;https://eliaskelta.com&#34;&gt;eliaskelta.com&lt;/a&gt;!&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>My first blog entry</title>
       <link>/posts/first-post/first-blog-entry/</link>
