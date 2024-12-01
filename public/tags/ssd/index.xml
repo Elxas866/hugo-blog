@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SSD on Elias&#39; blog</title>
+    <link>/tags/ssd/</link>
+    <description>Recent content in SSD on Elias&#39; blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/ssd/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beetle X31 SSD</title>
+      <link>/posts/beetle-x31-ssd/beetle-x31-ssd/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/beetle-x31-ssd/beetle-x31-ssd/</guid>
+      <description>Introduction Yesterday my Beetle X31 SSD was delivered. I ordered it because it was heavily discounted on the black friday sale (70€). I ordered the 1TB Version to extend my external storage possibility as far as possible.
+Product Package Content Inside the package was:
+The SSD itself A protective case for the SSD Two extra thicc USB 3.0 cables: USB type C - USB type C cable USB type C - USB type A cable A little manual #skipthetutorial 🙃 Benchmarks As soon as it arrived, I ran a few benchmark tests on the external SSD.</description>
+      <content>&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;Yesterday my Beetle X31 SSD was delivered. I ordered it because it was heavily discounted on the black friday sale (&lt;strong&gt;70€&lt;/strong&gt;). I ordered the &lt;strong&gt;1TB&lt;/strong&gt; Version to extend my external storage possibility as far as possible.&lt;/p&gt;
+&lt;h2 id=&#34;product&#34;&gt;Product&lt;/h2&gt;
+&lt;p&gt;&lt;img alt=&#34;Beetle X31 SSD&#34; src=&#34;beetle.png&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;package-content&#34;&gt;Package Content&lt;/h2&gt;
+&lt;p&gt;Inside the package was:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;The SSD itself&lt;/li&gt;
+&lt;li&gt;A protective case for the SSD&lt;/li&gt;
+&lt;li&gt;Two extra &lt;em&gt;thicc&lt;/em&gt; USB 3.0 cables:
+&lt;ul&gt;
+&lt;li&gt;USB type C - USB type C cable&lt;/li&gt;
+&lt;li&gt;USB type C - USB type A cable&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;A little manual #skipthetutorial 🙃&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;benchmarks&#34;&gt;Benchmarks&lt;/h2&gt;
+&lt;p&gt;As soon as it arrived, I ran a few benchmark tests on the external SSD. Here are the results:
+&lt;img alt=&#34;benchmark results&#34; src=&#34;benchmark.png&#34;&gt;
+&amp;hellip; And yes, I used Windows 4 this
+As you can see, the results are really great and the Beetle X31 SSD is performing as advertised.&lt;/p&gt;
+&lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;The Beetle X31 SSD is a high performing external SSD at a low price range. I totally recommend buying it, especially when in discount.&lt;/p&gt;
+</content>
+    </item>
+    
+  </channel>
+</rss>
