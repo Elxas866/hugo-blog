@@ -16,6 +16,8 @@ POSTS_DIR="~/personal-notes/posts/"
 
 # rsync files
 rsync -av --delete $POSTS_DIR content/posts/
+# copy about page
+cp ~/personal-notes/posts/about.md content/about.md
 
 # build site
 hugo -t terminal
