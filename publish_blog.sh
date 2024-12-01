@@ -10,8 +10,12 @@ ___________.__                          ______   ________ ________
 -------------------------------------------------------------------
 '
 
+# VARIABLES
+POSTS_DIR="~/personal-notes/posts/"
+
+
 # rsync files
-rsync -av --delete ~/personal-notes/posts/ content/posts/
+rsync -av --delete $POSTS_DIR content/posts/
 
 # build site
 hugo -t terminal
