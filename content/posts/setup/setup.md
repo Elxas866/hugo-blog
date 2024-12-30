@@ -24,7 +24,7 @@ You can also notice I **decorated the wall** a little. Let's talk about it:
 
 Also I have got the big **Calendar** from [EVN](https://www.evn.at/), which I personally requested and was granted exclusive access on :D It's really helpful as it grants me a perfect overview on all my exams.
 
-As you might have recognized I got a little forearm training device which I use while Coding or if I'm just bored... #neverStopTrining 💪
+As you might have recognized I got a little forearm training device which I use while coding or if I'm just bored... #neverStopTraining 💪
 
 
 This post surely can help you if you are currently seeking inspiration for your own setup. If it did help you, I would be happy if you let me know and maybe show me a pic of your setup 📸✌️ 
