@@ -11,7 +11,7 @@ ___________.__                          ______   ________ ________
 '
 
 # VARIABLES
-POSTS_DIR="~/personal-notes/posts/"
+POSTS_DIR=~/personal-notes/posts/
 
 
 # rsync files

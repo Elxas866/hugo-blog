@@ -32,5 +32,30 @@ site &lt;a href=&#34;https://eliaskelta.com&#34;&gt;eliaskelta.com&lt;/a&gt;!&lt
 </content>
     </item>
     
+    <item>
+      <title>About</title>
+      <link>/posts/about/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/about/</guid>
+      <description>This is a blog project that reads Markdown files and converts them to HTML using Hugo 🔥
+Benefits Hosting cost Using this approach I am able to minimize hosting costs as far as possible, since only HTML files are served and I don&amp;rsquo;t require a database.
+Theming Hugo enables theming and many skilled designers have published their cool themes which can easily be imported and used. So, no more centering divs myself :)</description>
+      <content>&lt;p&gt;This is a blog project that reads Markdown files and converts them to HTML using
+&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo 🔥&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;benefits&#34;&gt;Benefits&lt;/h2&gt;
+&lt;h3 id=&#34;hosting-cost&#34;&gt;Hosting cost&lt;/h3&gt;
+&lt;p&gt;Using this approach I am able to minimize hosting costs as far as possible, since
+only HTML files are served and I don&amp;rsquo;t require a database.&lt;/p&gt;
+&lt;h3 id=&#34;theming&#34;&gt;Theming&lt;/h3&gt;
+&lt;p&gt;Hugo enables theming and many skilled designers have published their cool themes
+which can easily be imported and used. So, no more centering divs myself :)&lt;/p&gt;
+&lt;h2 id=&#34;can-i-help&#34;&gt;Can I help?&lt;/h2&gt;
+&lt;p&gt;Yes, you can. If you are familiar with Hugo and spot a flaw in my config files or
+just have a better approach, pls contact me via the contact section at my portfolio
+site &lt;a href=&#34;https://eliaskelta.com&#34;&gt;eliaskelta.com&lt;/a&gt;!&lt;/p&gt;
+</content>
+    </item>
+    
   </channel>
 </rss>

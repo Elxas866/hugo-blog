@@ -6,7 +6,63 @@
     <description>Recent content in Posts on Elias&#39; blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Setup</title>
+      <link>/posts/setup/setup/</link>
+      <pubDate>Mon, 30 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/setup/setup/</guid>
+      <description>This is my current workspace. I designed it to be both calming and beautiful while also being modern and minimalistic: That&amp;rsquo;s my stuff:
+Laptop: HP Pavilion Gaming Laptop (modded specs, secret 🙃) OS: Windows and Linux 😎 Monitor: Samsung Odyssey G4 (1080p @240Hz) Keyboard: Keychron K4 Mouse: Logitech G Pro Wireless Fan: Noname but cool and it has a light :) You can also notice I decorated the wall a little.</description>
+      <content>&lt;p&gt;This is my current workspace. I designed it to be both calming and beautiful while also being modern and minimalistic:
+&lt;img alt=&#34;my workspace&#34; src=&#34;workspace.jpeg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;That&amp;rsquo;s my &lt;strong&gt;stuff&lt;/strong&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Laptop: HP Pavilion Gaming Laptop (modded specs, secret 🙃)
+&lt;ul&gt;
+&lt;li&gt;OS: Windows and Linux 😎&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Monitor: Samsung Odyssey G4 (1080p @240Hz)&lt;/li&gt;
+&lt;li&gt;Keyboard: Keychron K4&lt;/li&gt;
+&lt;li&gt;Mouse: Logitech G Pro Wireless&lt;/li&gt;
+&lt;li&gt;Fan: Noname but cool and it has a light :)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You can also notice I &lt;strong&gt;decorated the wall&lt;/strong&gt; a little. Let&amp;rsquo;s talk about it:
+The &lt;strong&gt;right picture&lt;/strong&gt; was drawn by my grandfather, who was an artist. The &lt;strong&gt;picture to the very left&lt;/strong&gt;, I drew myself, as you might assume by the excellence of it.
+I got the picture of the &lt;strong&gt;Holy Family in Egypt&lt;/strong&gt; from church. The &lt;strong&gt;silver cross&lt;/strong&gt; was a gift from my cousin (also got it from church).&lt;/p&gt;
+&lt;p&gt;Also I have got the big &lt;strong&gt;Calendar&lt;/strong&gt; from &lt;a href=&#34;https://www.evn.at/&#34;&gt;EVN&lt;/a&gt;, which I personally requested and was granted exclusive access on :D It&amp;rsquo;s really helpful as it grants me a perfect overview on all my exams.&lt;/p&gt;
+&lt;p&gt;As you might have recognized I got a little forearm training device which I use while Coding or if I&amp;rsquo;m just bored&amp;hellip; #neverStopTrining 💪&lt;/p&gt;
+&lt;p&gt;This post surely can help you if you are currently seeking inspiration for your own setup. If it did help you, I would be happy if you let me know and maybe show me a pic of your setup 📸✌️&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>/posts/about/</link>
+      <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/about/</guid>
+      <description>This is a blog project that reads Markdown files and converts them to HTML using Hugo 🔥
+Benefits Hosting cost Using this approach I am able to minimize hosting costs as far as possible, since only HTML files are served and I don&amp;rsquo;t require a database.
+Theming Hugo enables theming and many skilled designers have published their cool themes which can easily be imported and used. So, no more centering divs myself :)</description>
+      <content>&lt;p&gt;This is a blog project that reads Markdown files and converts them to HTML using
+&lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo 🔥&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;benefits&#34;&gt;Benefits&lt;/h2&gt;
+&lt;h3 id=&#34;hosting-cost&#34;&gt;Hosting cost&lt;/h3&gt;
+&lt;p&gt;Using this approach I am able to minimize hosting costs as far as possible, since
+only HTML files are served and I don&amp;rsquo;t require a database.&lt;/p&gt;
+&lt;h3 id=&#34;theming&#34;&gt;Theming&lt;/h3&gt;
+&lt;p&gt;Hugo enables theming and many skilled designers have published their cool themes
+which can easily be imported and used. So, no more centering divs myself :)&lt;/p&gt;
+&lt;h2 id=&#34;can-i-help&#34;&gt;Can I help?&lt;/h2&gt;
+&lt;p&gt;Yes, you can. If you are familiar with Hugo and spot a flaw in my config files or
+just have a better approach, pls contact me via the contact section at my portfolio
+site &lt;a href=&#34;https://eliaskelta.com&#34;&gt;eliaskelta.com&lt;/a&gt;!&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>Beetle X31 SSD</title>
       <link>/posts/ssd/ssd/</link>
@@ -36,8 +92,8 @@ The SSD itself A protective case for the SSD Two extra thicc USB 3.0 cables: USB
 &lt;h2 id=&#34;benchmarks&#34;&gt;Benchmarks&lt;/h2&gt;
 &lt;p&gt;As soon as it arrived, I ran a few benchmark tests on the external SSD. Here are the results:
 &lt;img alt=&#34;benchmark results&#34; src=&#34;benchmark.png&#34;&gt;
-&amp;hellip; And yes, I used Windows 4 this
-As you can see, the results are really great and the Beetle X31 SSD is performing as advertised.&lt;/p&gt;
+&amp;hellip; And yes, I used Windows 4 this&lt;/p&gt;
+&lt;p&gt;As you can see, the results are really great and the Beetle X31 SSD is performing as advertised.&lt;/p&gt;
 &lt;h2 id=&#34;conclusion&#34;&gt;Conclusion&lt;/h2&gt;
 &lt;p&gt;The Beetle X31 SSD is a high performing external SSD at a low price range. I totally recommend buying it, especially when in discount.&lt;/p&gt;
 </content>

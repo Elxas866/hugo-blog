@@ -24,6 +24,7 @@ Inside the package was:
 As soon as it arrived, I ran a few benchmark tests on the external SSD. Here are the results:
 ![benchmark results](benchmark.png)
 ... And yes, I used Windows 4 this
+
 As you can see, the results are really great and the Beetle X31 SSD is performing as advertised.
 ## Conclusion
 The Beetle X31 SSD is a high performing external SSD at a low price range. I totally recommend buying it, especially when in discount. 
