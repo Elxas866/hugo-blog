@@ -1,5 +1,6 @@
 #!/bin/bash
-:'
+#
+cat << 'EOF'
 ___________.__                          ______   ________ ________
 \_   _____/|  | ___  ________    ______/  __  \ /  _____//  _____/
  |    __)_ |  | \  \/  /\__  \  /  ___/>      </   __  \/   __  \ 
@@ -8,11 +9,11 @@ ___________.__                          ______   ________ ________
         \/            \/     \/     \/       \/       \/       \/ 
 -------------------------------------------------------------------
 -------------------------------------------------------------------
-'
+EOF
 
 # VARIABLES
 POSTS_DIR=~/personal-notes/posts/
-
+SEPERATOR="-------------------------------"
 
 # rsync files
 rsync -av --delete $POSTS_DIR content/posts/
@@ -21,6 +22,8 @@ cp ~/personal-notes/posts/about.md content/about.md
 
 # build site
 hugo -t terminal
+
+echo $SEPERATOR
 
 # copy images to correct path
 BASE_DIR="public/posts"
@@ -48,12 +51,13 @@ for dir in "$BASE_DIR"/*; do
       if [[ -f "$file" ]]; then
         # Move the file to the first subdirectory
         mv "$file" "$FIRST_SUBDIR"
-        echo "Moved: $file -> $FIRST_SUBDIR"
+        echo -e "\e[32mMoved: $file -> $FIRST_SUBDIR\e[0m"
       fi
     done
   fi
 done
 
+echo $SEPERATOR
 
 # git stuff
 git add .
