@@ -6,7 +6,25 @@
     <description>Recent content in Posts on Elias&#39; blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 30 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 07 Aug 2025 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OpenRazer</title>
+      <link>/posts/openrazer/openrazer/</link>
+      <pubDate>Thu, 07 Aug 2025 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/openrazer/openrazer/</guid>
+      <description>What is OpenRazer? I recently acquired a new Razer mouse (Basilisk V3 X Hyperspeed) and wanted to modify it on Linux as well. That&amp;rsquo;s when I found OpenRazer. It is a community-led effort to support Razer peripherals on Linux. The driver supports hundreds of Razer devices, if not all of them.
+How to use it I really love the Linux community 4 things like this. The driver works like a charm.</description>
+      <content>&lt;p&gt;&lt;img alt=&#34;OpenRazer 3.10&#34; src=&#34;openrazer.jpg&#34;&gt;&lt;/p&gt;
+&lt;h2 id=&#34;what-is-openrazer&#34;&gt;What is OpenRazer?&lt;/h2&gt;
+&lt;p&gt;I recently acquired a new Razer mouse (Basilisk V3 X Hyperspeed) and wanted to modify it on Linux as well. That&amp;rsquo;s when I found &lt;a href=&#34;https://openrazer.github.io/&#34;&gt;OpenRazer&lt;/a&gt;. It is a community-led effort to support Razer peripherals on Linux. The driver supports hundreds of Razer devices, if not all of them.&lt;/p&gt;
+&lt;h2 id=&#34;how-to-use-it&#34;&gt;How to use it&lt;/h2&gt;
+&lt;p&gt;I really love the Linux community 4 things like this. The driver works like a charm. You can install many different programs that integrate with the OpenRazer driver. I personally use &lt;a href=&#34;https://polychromatic.app/&#34;&gt;Polychromatic&lt;/a&gt; to control the DPI, RGB effects and basically every important setting I need.&lt;/p&gt;
+&lt;h2 id=&#34;secureboot&#34;&gt;SecureBoot&lt;/h2&gt;
+&lt;p&gt;As for many 3rd party drivers on Linux, the drivers won&amp;rsquo;t be seen as safe by your systems BIOS per default. Luckily, OpenRazer have a tutorial regarding this here: &lt;a href=&#34;https://github.com/openrazer/openrazer/wiki/Secure-Boot&#34;&gt;https://github.com/openrazer/openrazer/wiki/Secure-Boot&lt;/a&gt;. Just follow the steps and it should work just fine:)&lt;/p&gt;
+</content>
+    </item>
+    
     <item>
       <title>My Setup</title>
       <link>/posts/setup/setup/</link>
@@ -138,24 +156,6 @@ To avoid this, I came up with this solution:&lt;/p&gt;
 &lt;li&gt;I run a custom bash script to polish everything off&lt;/li&gt;
 &lt;li&gt;I automatically publish the site to Vercel through a GitHub push&lt;/li&gt;
 &lt;/ul&gt;
-</content>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>/posts/openrazer/openrazer/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/posts/openrazer/openrazer/</guid>
-      <description>What is OpenRazer? I recently acquired a new Razer mouse (Basilisk V3 X Hyperspeed) and wanted to modify it on Linux as well. That&amp;rsquo;s when I found OpenRazer. It is a community-led effort to support Razer peripherals on Linux. The driver supports hundreds of Razer devices, if not all of them.
-How to use it I really love the Linux community 4 things like this. The driver works like a charm.</description>
-      <content>&lt;p&gt;&lt;img alt=&#34;OpenRazer 3.10&#34; src=&#34;openrazer.jpg&#34;&gt;&lt;/p&gt;
-&lt;h2 id=&#34;what-is-openrazer&#34;&gt;What is OpenRazer?&lt;/h2&gt;
-&lt;p&gt;I recently acquired a new Razer mouse (Basilisk V3 X Hyperspeed) and wanted to modify it on Linux as well. That&amp;rsquo;s when I found &lt;a href=&#34;https://openrazer.github.io/&#34;&gt;OpenRazer&lt;/a&gt;. It is a community-led effort to support Razer peripherals on Linux. The driver supports hundreds of Razer devices, if not all of them.&lt;/p&gt;
-&lt;h2 id=&#34;how-to-use-it&#34;&gt;How to use it&lt;/h2&gt;
-&lt;p&gt;I really love the Linux community 4 things like this. The driver works like a charm. You can install many different programs that integrate with the OpenRazer driver. I personally use &lt;a href=&#34;https://polychromatic.app/&#34;&gt;Polychromatic&lt;/a&gt; to control the DPI, RGB effects and basically every important setting I need.&lt;/p&gt;
-&lt;h2 id=&#34;secureboot&#34;&gt;SecureBoot&lt;/h2&gt;
-&lt;p&gt;As for many 3rd party drivers on Linux, the drivers won&amp;rsquo;t be seen as safe by your systems BIOS per default. Luckily, OpenRazer have a tutorial regarding this here: &lt;a href=&#34;https://github.com/openrazer/openrazer/wiki/Secure-Boot&#34;&gt;https://github.com/openrazer/openrazer/wiki/Secure-Boot&lt;/a&gt;. Just follow the steps and it should work just fine:)&lt;/p&gt;
 </content>
     </item>
     

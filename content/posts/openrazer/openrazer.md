@@ -1,3 +1,14 @@
+---
+title: OpenRazer
+date: 2025-08-07
+draft: "false"
+tags:
+  - Razer
+  - OpenRazer
+  - Mouse
+  - Linux
+  - OpenSource
+---
 ![OpenRazer 3.10](openrazer.jpg)
 ## What is OpenRazer?
 I recently acquired a new Razer mouse (Basilisk V3 X Hyperspeed) and wanted to modify it on Linux as well. That's when I found [OpenRazer](https://openrazer.github.io/). It is a community-led effort to support Razer peripherals on Linux. The driver supports hundreds of Razer devices, if not all of them.
